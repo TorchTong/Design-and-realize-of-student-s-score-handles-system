@@ -1,5 +1,6 @@
 # Design-and-realize-of-student-s-score-handles-system
 成绩处理
+
 #include <stdio.h>
 
 int main()
